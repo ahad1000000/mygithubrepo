@@ -1,2 +1,2 @@
-def add_func(a,b):
-    return(a+b)
+def print_func():
+    print("My first push.")
